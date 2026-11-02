@@ -1,0 +1,1 @@
+MENOCLONE Motorsports membership card update. Upload index.html and assets/ alongside your existing website assets and downloads. Front/back cards can be flipped by visitors. Membership access, technology, and passes are described as planned until implemented. Supabase configuration is still required for form submissions.

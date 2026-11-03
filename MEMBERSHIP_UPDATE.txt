@@ -1,0 +1,1 @@
+Membership display update: removed card flip and thumbnails; placed supplied membership photo to the right of MORE THAN A MEMBERSHIP on desktop, and below the copy on narrow mobile screens for legibility. Other features retained.

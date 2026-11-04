@@ -1,0 +1,1 @@
+MENOCLONE MESH update: new beta poster under the DIAG board. Includes a Join the Community button for full beta trial requests. This button links to the existing community application; actual access must be approved separately.

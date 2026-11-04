@@ -1,0 +1,5 @@
+GAS PRICE WIDGET
+
+The widget asks permission before accessing the visitor’s approximate device location, and opens a nearby gas-station search on Google Maps. It does NOT display live price figures because a licensed gas-price data feed/API has not been connected. Do not label estimated or stale values as current. To show actual prices inside the widget, connect a reputable fuel price API via a server-side endpoint (Supabase Edge Function recommended); never expose a private API key in public HTML. Verify the provider permits public display and attribution.
+
+Upload index.html and retain all included assets and existing website files. Geolocation requires HTTPS or localhost.

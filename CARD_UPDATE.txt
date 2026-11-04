@@ -1,0 +1,1 @@
+Membership card: front is exactly the first supplied image; back is exactly the second supplied NYC map, proportionally scaled and centered on a black canvas matching the front dimensions (1018 x 1544). No map cropping or stretching. Both images are displayed using the same flip card dimensions.

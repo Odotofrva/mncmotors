@@ -1,0 +1,1 @@
+Added glow in the dark sticker community section with supplied artwork, responsive layout, and community link. Existing site features retained.
